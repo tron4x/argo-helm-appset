@@ -7,5 +7,5 @@ argo-cd:
     config:
       repositories: |
         - type: helm
-          name: argo-cd
+          name: argocd
           url: https://argoproj.github.io/argo-helm
